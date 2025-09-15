@@ -9,14 +9,6 @@ Ce projet implémente un **réseau de neurones convolutionnel (CNN)** en Python 
 
 ---
 
-## 📂 Structure du projet
-handwriting_recognition/
-│── mnist_cnn.py # Script Python principal
-│── README.md # Documentation du projet
-
-
----
-
 ## 🚀 Installation
 Clone le projet :
 ```bash
